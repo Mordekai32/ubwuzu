@@ -11,6 +11,12 @@ Full Stack Developer | Python & JavaScript | Open Source Contributor
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS3-blue)
+## 📊 GitHub Stats
+
+![Mordekai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mordekai32&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mordekai32&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 
 ---
 
